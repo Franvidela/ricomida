@@ -1,0 +1,13 @@
+* {
+font-family: 'Cabin', sans-serif;
+}
+/*font-family: 'Lobster', cursive;*/
+#picsatitulo {
+    font-size: 40pt;
+}
+#tooltip {
+    background-color: #DC3545;
+}
+#footerinferior {
+    background-color: #373A3C;
+}
